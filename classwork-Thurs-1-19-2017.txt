@@ -1,0 +1,1000 @@
+   22  ls
+   23  cd Downloads/
+   24  ls
+   25  sudo gdebi rstudio-1.0.136-amd64.deb 
+   26  cd
+   27  apt-get install rstudio
+   28  sudo apt-get install rstudio
+   29  sudo apt-get -f install
+   30  ls
+   31  cd Downloads/
+   32  ls
+   33  sudo gdebi rstudio-1.0.136-amd64.deb 
+   34  sudo apt-get install rstudio
+   35  sudo rstudio 
+   36  cd
+   37  clear
+   38  =ls
+   39  clear
+   40  ls
+   41  cd Downloads/
+   42  ls
+   43  bash Miniconda3-latest-Linux-x86_64.sh 
+   44  df -h
+   45  cd
+   46  ls
+   47  conda update conda
+   48  exit
+   49  ls
+   50  conda update conda
+   51  ls
+   52  df -h
+   53  conda install numpy
+   54  df -h
+   55  conda install jupyter
+   56  ls
+   57  jupyter 
+   58  df -h
+   59  conda install numpy
+   60  conda install scipy
+   61  df -h
+   62  jupyter notebook
+   63  ls
+   64  clear
+   65  ls
+   66  cd Desktop/
+   67  ls
+   68  exit
+   69  ls
+   70  pwd
+   71  mkdir eeb-177
+   72  ls
+   73  la
+   74  ls
+   75  pwd
+   76  mkdir eeb 1-77
+   77  ls
+   78  pwd
+   79  mkdir eeb-177
+   80  ls
+   81  pwd
+   82  ls
+   83  mkdir eeb-177 Desktop
+   84  cd Desktop
+   85  ls
+   86  mkdir eeb-177
+   87  cd ..
+   88  ls
+   89  cd Desktop
+   90  ls
+   91  dmkdir sampleDir
+   92  rm sampleDir
+   93  rmkdir sampleDir
+   94  rmdir sampleDir
+   95  mkdir sampleDir
+   96  rmdir sampleDir
+   97  ls
+   98  cd desktop
+   99  cd..
+  100  ls
+  101  cd Desktop
+  102  ls
+  103  mkdir eeb-177
+  104  cd eeb-177
+  105  pwd
+  106  git clone https://github.com/StefanoAllesina/CSB.git
+  107  ls
+  108  cd Desktop
+  109  mkdir HI
+  110  cd ..
+  111  ls
+  112  mkdir HI
+  113  rmdir HI
+  114  ls
+  115  cd
+  116  fwkje
+  117  pwd
+  118  cd
+  119  cd /
+  120  ls
+  121  cd /
+  122  pwd
+  123  git config --global user.name "Kristenlee22"
+  124  git config --global user.email "kristenklee@hotmail.com"
+  125  cd eeb-177
+  126  mkdir lab-work
+  127  ls
+  128  cd eeb-177
+  129  mkdir lab-work
+  130  cd Desktop ; cd eeb-177
+  131  cd Desktop; cd eeb-177
+  132  ls
+  133  cd Desktop
+  134  pwd
+  135  cd Desktop
+  136  cd eeb-177
+  137  pwd
+  138  ls -a lab-work/
+  139  cd ../
+  140  la
+  141  clear
+  142  ls
+  143  cd 1-77/
+  144  ls
+  145  cd ../
+  146  rmdir 1-77/
+  147  ls eeb
+  148  rmdir eeb
+  149  ls
+  150  ls eeb-177/
+  151  rm eeb-177/lab-work/
+  152  rmdir eeb-177/lab-work/
+  153  rmdir eeb-177/
+  154  cd Desktop
+  155  cd eeb-177
+  156  mkdir lab-work
+  157  cd labwork
+  158  cd lab-work
+  159  ls
+  160  cd Desktop
+  161  cd eeb-177
+  162  cd lab-work
+  163  pwd
+  164  git init
+  165  touch README.txt
+  166  gedit README.txt
+  167  git add README.txt
+  168  git commit -m "initial commit: adding README file"
+  169  git log
+  170  git remote add origin https://github.com/Kristenlee22/C177.git
+  171  git push -u origin master
+  172  git config --global credential.helper cache
+  173  git config --global credential.helper 'cache --timeout=3600'
+  174  ls
+  175  cd Desktop
+  176  cd eeb-177
+  177  cd lab-work
+  178  mkdir exercise-1
+  179  git add <exercise-1>
+  180  git add exercise-1
+  181  cd exercise-1
+  182  touch README.txt
+  183  cd ..
+  184  git add exercise-1/README.txt
+  185  git status
+  186  git commit -m "exercise-1"
+  187  git status
+  188  git push
+  189  ls
+  190  cd ..
+  191  cd exercise-1
+  192  mkdir one-liner.txt
+  193  ls
+  194  cd Desktop
+  195  ls
+  196  cd eeb-177
+  197  ls
+  198  cd ..
+  199  cd eeb-177
+  200  cd lab-work
+  201  cd exercise-1
+  202  one-liner.txt
+  203  mkdir one-liner.txt
+  204  gedit README.txt
+  205  gedit one-liner.txt
+  206  touch one one-liner.txt
+  207  gedit one-liner.txt
+  208  cd ..
+  209  git add exercise-1/one-liner.txt
+  210  git status
+  211  git commit "one-liner"
+  212  git commit "one-liner.txt"
+  213  git add one-liner.txt
+  214  ls
+  215  git add one-liner.txt
+  216  cd ..
+  217  ls
+  218  cd lab-work
+  219  git add exercise-1/one-liner.txt
+  220  git commit -m "one-liner"
+  221  git push
+  222  sudo gedit exercise-1/README.txt
+  223  gedit exercise-1/README.txt
+  224  git add exercise-1/README.txt
+  225  git commit -m "Westwood food"
+  226  git push
+  227  git log
+  228  pwd
+  229  ls
+  230  man ls
+  231  ls -l
+  232  ls -lh
+  233  cd Desktop/eeb-177
+  234  mkdir class-assignments
+  235  git add class-assignments
+  236  pwd
+  237  cd class-assignments
+  238  git init
+  239  ls -a
+  240  git remote add origin https://github.com/Kristenlee22/class-assignments.git
+  241  git push -u origin master
+  242  git remote add origin https://github.com/Kristenlee22/class-assignments.git
+  243  git push -u origin master
+  244  git remote add origin https://github.com/Kristenlee22/class-assignments.git
+  245  git push -u origin master
+  246  touch readme.txt
+  247  git status
+  248  git add readme.txt
+  249  ls
+  250  cd ..
+  251  pwd
+  252  ls
+  253  rm -rf class-assignments
+  254  mkdir class-assignments
+  255  cd class-assignments
+  256  git init
+  257  git add .
+  258  git remote add origin https://github.com/Kristenlee22/class-assignments.git
+  259  git push -u origin master
+  260  touch readme.txt
+  261  git add readme.txt
+  262  git commit -m "readme.txt"
+  263  git remote add origin https://github.com/Kristenlee22/class-assignments.git
+  264  git push -u origin master
+  265  git remote add origin https://github.com/Kristenlee22/class-assignments.git
+  266  ls
+  267  pwd
+  268  mkdir thursday-1-12-2017
+  269  rm thursday-1-12-2017
+  270  rdmr thursday-1-12-2017
+  271  rdmir thursday-1-12-2017
+  272  rmdir thursday-1-12-2017
+  273  echo $SHELL
+  274  echo $HOME
+  275  cd /
+  276  pwd
+  277  ls
+  278  ~
+  279  ls
+  280  /
+  281  ls
+  282  echo $HOME
+  283  ls
+  284  cd Desktop
+  285  ls
+  286  cd Desktop
+  287  ls
+  288  pwd
+  289  cd ~
+  290  pwd
+  291  ls
+  292  cd
+  293  pwd
+  294  cd Desktop
+  295  cd eeb-177
+  296  pwd
+  297  ls
+  298  cd Desktop
+  299  ls
+  300  cd eeb-177
+  301  touch thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  302  rm thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  303  cd exercise-1
+  304  ls
+  305  cd lab-work
+  306  cd exercise-1
+  307  ls
+  308  pwd
+  309  touch thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  310  cd thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  311  pwd
+  312  ls
+  313  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  314  cd ..
+  315  ls
+  316  git add exer
+  317  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  318  git commit -m "commit screenshot"
+  319  git push
+  320  rm -rf .git
+  321  cd Desktop
+  322  cd eeb-177
+  323  cd lab-work
+  324  cd ../ ../ ../
+  325  ls
+  326  pw
+  327  pwd
+  328  cd ..
+  329  pwd
+  330  cd ~
+  331  pwd
+  332  ls
+  333  cd Desktop
+  334  ls
+  335  cd eeb-177
+  336  cd lab-work
+  337  cd exercise-1
+  338  touch thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  339  Desktop
+  340  ls
+  341  cd Desktop
+  342  ls
+  343  cd eeb-177
+  344  ls
+  345  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  346  git init exercise-1
+  347  git log
+  348  git add exercise-1
+  349  ls -a
+  350  ls
+  351  cd Desktop
+  352  cd eeb-177
+  353  cd lab-work
+  354  ls -a
+  355  cd ..
+  356  cd exercise-1
+  357  ls -a
+  358  cd ..
+  359  cd ~
+  360  cd Desktop
+  361  cd eeb-177
+  362  cd lab-work
+  363  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  364  cd exercise-1
+  365  git add thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  366  cd -a
+  367  ls -a
+  368  cd ..
+  369  ls -a
+  370  git init exercise-1
+  371  ls
+  372  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  373  git init lab-work
+  374  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  375  cd Desktop
+  376  cd eeb-177
+  377  cd lab-work
+  378  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  379  git add exercise-1
+  380  git add lab-work
+  381  git add C177
+  382  cd Desktop
+  383  cd eeb-177
+  384  cd lab-work
+  385  cd exercise-1
+  386  mv thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  387  mv thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg exercise-1
+  388  mv thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg lab-work/exercise-1
+  389  mv thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg ../exercise-1/
+  390  cd Desktop
+  391  cd eeb-177
+  392  cd lab-work
+  393  ls -a
+  394  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  395  git add exercise-1
+  396  ls -a
+  397  cd exercise-1
+  398  ls -a
+  399  git add thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  400  git commit -m "commit screenshot2"
+  401  git push
+  402  git push exercise-1
+  403  cd Desktop
+  404  cd eeb-177
+  405  cd lab-work
+  406  git exercise-1
+  407  cd exercise-1
+  408  ls -a
+  409  git add thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg
+  410  git commit -m "commit screenshot2"
+  411  git status
+  412  ls -a
+  413  pwd
+  414  ls
+  415  git add thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  416  git status
+  417  git add *
+  418  git status
+  419  git commit -m "commit screenshot2"
+  420  git push
+  421  git push C177
+  422  git add C177/exercise-1
+  423  git push C177/exercise-1
+  424  git push exercise-1
+  425  git log
+  426  git push
+  427  git push -u github master
+  428  cd Desktop
+  429  cd eeb-177
+  430  cd lab-work
+  431  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  432  cd exercise-1
+  433  cd ..
+  434  ls -a
+  435  cd exercise-1
+  436  ls -a
+  437  git add thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  438  git commit -m "commit screenshot2"
+  439  git status
+  440  git add thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  441  git status
+  442  cd Desktop
+  443  cd eeb-177
+  444  ls -a
+  445  cd Desktop
+  446  ls -a
+  447  cd eeb-177
+  448  ls -a
+  449  cd lab-work
+  450  ls -a
+  451  cd exercise-1
+  452  ls -a
+  453  cd ..
+  454  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  455  git init
+  456  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  457  git commit -m "commit screenshot2"
+  458  git push
+  459  git push exercise-1
+  460  git push -u origin master
+  461  cd Desktop
+  462  cd eeb-177
+  463  cd lab-work
+  464  git add exercise-1
+  465  git commit -m "commit screenshot2"
+  466  git push
+  467  git push exercise-1
+  468  git push C177
+  469  git push -u origin master
+  470  git remote -v
+  471  git remote add origin https://github.com/Kristenlee22/C177.git
+  472  git push origin master
+  473  cd Desktop
+  474  cd eeb-177
+  475  cd lab-work
+  476  git add exercise-1
+  477  git commit -m "commit2"
+  478  git add *
+  479  git commit -m "commit screenshot2"
+  480  git push
+  481  git push --set-upstream origin master
+  482  git remote add exercise-1
+  483  git push origin master
+  484  cd Desktop
+  485  cd eeb-177
+  486  cd lab-work
+  487  git push exercise-1
+  488  git add exercise-1
+  489  git commit -m "commit screenshot2"
+  490  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  491  git commit -m "commit screenshot2"
+  492  cd exercise-1
+  493  git add thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  494  git commit -m "commit screenshot2"
+  495  git push orgin
+  496  cd ~
+  497  cd Desktop
+  498  ls -a
+  499  cd eeb-177
+  500  ls -a
+  501  cd lab-work
+  502  ls -a
+  503  cd exercise-1
+  504  ls -a
+  505  git add thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  506  git commit -m "commit screenshot2"
+  507  git push C177/exercise-1
+  508  git push orgin master
+  509  git status
+  510  git push
+  511  cd Desktop
+  512  cd eeb-177
+  513  cd lab-work
+  514  git status
+  515  cd exercise-1
+  516  git status
+  517  git push 
+  518  git push https://github.com/Kristenlee22/C177.git
+  519  git push --set-upstream https://github.com/Kristenlee22/C177.git master
+  520  cd Desktop
+  521  cd eeb-177
+  522  cd lab-work
+  523  git status
+  524  cd exercise-1
+  525  git status
+  526  cd ..
+  527  ls -a
+  528  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_12_01_2017_12_12_10.jpg 
+  529  git commit -m "commit history  screenshot"
+  530  git status
+  531  git add *
+  532  git commit -m "commit history screenshot"
+  533  git status
+  534  git push
+  535  git push orgin master
+  536  git push C177 master
+  537  git push lab-work
+  538  git push exercise-1
+  539  git status
+  540  cd Desktop
+  541  cd eeb-177
+  542  git status
+  543  cd lab-work
+  544  git status
+  545  git push 
+  546  git push -u origin master
+  547  git push --set-upstream origin master
+  548  git pull
+  549  cd Desktop
+  550  cd eeb-177
+  551  cd lab-work
+  552  git branch
+  553  git checkout -b dummy-branch
+  554  git branch
+  555  cd exercise-1
+  556  touch dummy-file
+  557  cd ..
+  558  git add dummy-file
+  559  git add exercise-1/dummy-file
+  560  git commit -m "dummy file"
+  561  git push
+  562  git push --set-upstream origin dummy-branch
+  563  git log --decorate
+  564  cd Desktop
+  565  cd eeb-177
+  566  mkdir 01-my-favorite-animals
+  567  git branch
+  568  git checkout master
+  569  cd Desktop
+  570  git checkout master
+  571  ls
+  572  cd eeb-177
+  573  cd lab-work
+  574  git branch
+  575  git checkout master
+  576  git status
+  577  git add *
+  578  git commit -m "please work"
+  579  git push
+  580  git push -u origin master
+  581  git push --help
+  582  git remote set-url origin ssh://github.com/Kristenlee22/C177.git
+  583  git push
+  584  git push -u origin master
+  585  git push --set-upstream origin master
+  586  git remote set-url origin https://github.com/Kristenlee22/C177.git
+  587  git push
+  588  git push --set-upstream origin master
+  589  git pull origin master
+  590  git status
+  591  git commit -a
+  592  cd Desktop
+  593  cd eeb-177
+  594  cd lab-work
+  595  cd exercise-1
+  596  ls
+  597  git checkout master
+  598  ls
+  599  cd ..
+  600  cd exercise-1
+  601  ls
+  602  git checkout master
+  603  git checkout dummy-branch
+  604  git branch
+  605  cd Dektop
+  606  cd Desktop
+  607  cd eeb-177
+  608  cd lab-work
+  609  git branch
+  610  git status
+  611  git add *
+  612  git commit -m "pls work"
+  613  git push
+  614  git branch -a
+  615  git push --set-upstream origin master
+  616  cd Desktop
+  617  ls
+  618  mkdir eeb-177
+  619  cd eeb-177
+  620  mkdir lab-work
+  621  pwd
+  622  git init
+  623  ls
+  624  cd lab-work
+  625  ls
+  626  git add README.txt 
+  627  git commit -m "initial commit: adding README file"
+  628  git log
+  629  git remote add origin https://github.com/Kristenlee22/C177.git
+  630  git push -u origin master
+  631  cd Desktop
+  632  cd eeb-177
+  633  cd lab-work
+  634  git init
+  635  git add README.txt
+  636  git commit -m "initial commit: adding README file"
+  637  git log
+  638  git remote add origin https://github.com/Kristenlee22/C177.git
+  639  git push -u origin master
+  640  cd Desktop
+  641  cd eeb-177
+  642  cd lab-work
+  643  mkdir exercise-1
+  644  git add exercise-1
+  645  cd exercise-1
+  646  touch README.txt
+  647  cd ..
+  648  git add exercise-1/README.txt
+  649  git status
+  650  git commit -m "exercise-1readme"
+  651  git status
+  652  git push
+  653  cd exercise-1
+  654  touch one-liner.txt
+  655  sudo gedit one-liner.txt 
+  656  cd Desktop
+  657  cd eeb-177
+  658  cd lab-work
+  659  cd exercise-1
+  660  cd ..
+  661  git status
+  662  git add exercise-1/one-liner.txt
+  663  git commit -m "one-liner"
+  664  git push
+  665  git log
+  666  ls
+  667  pwd
+  668  git add exercise-1/thumbnail_VirtualBox_eeb177-lubuntu_15_01_2017_18_30_03.jpg
+  669  git commit -m "screenshot history"
+  670  git push
+  671  ls
+  672  git branch
+  673  git checkout -b dummy-branch
+  674  git branch
+  675  cd exercise-1
+  676  touch dummy-file
+  677  cd ..
+  678  git status
+  679  git add exercise-1/dummy-file
+  680  git commit -m "dummy-file"
+  681  git push
+  682  cd Desktop
+  683  cd eeb-177
+  684  cd lab-work
+  685  git branch
+  686  git add exercise-1/dummy-file
+  687  git status
+  688  git push
+  689  git push --set-upstream origin dummy-branch
+  690  ls
+  691  cd exercise-1
+  692  ls
+  693  git checkout master
+  694  ls
+  695  git branch
+  696  git merge dummy-branch
+  697  ls
+  698  git rm dummy-file
+  699  git status
+  700  git commit -m "remove dummy-file"
+  701  git status
+  702  git push
+  703  git log
+  704  git revert f2bc61adda0a6acca530fe9e6a13200c79bda32b
+  705  cd Desktop
+  706  cd eeb-177
+  707  cd lab-work
+  708  git revert f2bc61adda0a6acca530fe9e6a13200c79bda32b
+  709  git status
+  710  git commit -m "revert"
+  711  git push
+  712  cd Desktop
+  713  cd eeb-177
+  714  git remote add origin https://github.com/Kristenlee22/01-my-favorite-animals.git
+  715  git push -u origin master
+  716  git clone https://github.com/Kristenlee22/01-my-favorite-animals
+  717  cd 01-my-favorite-animals/
+  718  touch README.txt
+  719  cd Desktop
+  720  cd eeb-177
+  721  ls
+  722  cd 01-my-favorite-animals/
+  723  touch picture-link.txt
+  724  git status
+  725  git add *
+  726  git status
+  727  git commit -m "lab week1 HW"
+  728  git push
+  729  cd Desktop
+  730  cd eeb-177
+  731  ls
+  732  git remote add origin https://github.com/Kristenlee22/class-assignments.git
+  733  git push -u origin master
+  734  git clone https://github.com/Kristenlee22/class-assignments.git
+  735  pwd
+  736  cd class-assignments
+  737  mkdir thurs-1-12-2017
+  738  git add thurs-1-12-2017/
+  739  git commit -m "thurs-1-12-2017"
+  740  git status
+  741  cd ..
+  742  cd Desktop
+  743  cd eeb-177
+  744  cd homework
+  745  touch hw-1-12-2017.txt
+  746  git remote add origin https://github.com/Kristenlee22/homework.git
+  747  ls
+  748  cd ..
+  749  ls
+  750  git clone https://github.com/Kristenlee22/homework.git
+  751  cd homework
+  752  touch hw-1-12-2017
+  753  git add hw-1-12-2017 
+  754  git commit -m "hw-1-12-2017"
+  755  git push
+  756  cd Desktop
+  757  pwd
+  758  ls -F
+  759  cd ~
+  760  nano draft.txt
+  761  ls
+  762  cd Desktop
+  763  ls
+  764  nano hi.txt
+  765  rm hi.txt
+  766  whoami
+  767  PS1='$ '
+  768  whoami
+  769  pwd
+  770  ls
+  771  ls -F
+  772  cd
+  773  d
+  774  cd
+  775  cd Desktop
+  776  ls
+  777  cd
+  778  ls
+  779  cd Desktop
+  780  cd eeb-177
+  781  ls
+  782  git add homework
+  783  git commit -m "problem 1"
+  784  git status
+  785  git push
+  786  ls -l
+  787  ls -h
+  788  cd Desktop
+  789  ls -l
+  790  ls -h
+  791  git status
+  792  cd ..
+  793  cd Desktop
+  794  ls -R -t
+  795  man ls -R -t
+  796  cd eeb-177
+  797  ls -R -t
+  798  cd Desktop
+  799  cd eeb-177
+  800  cd class-assignments
+  801  git clone https://github.com/Kristenlee22/class-assignments.git
+  802  ls
+  803  git status
+  804  cd Desktop
+  805  cd eeb-177
+  806  ls
+  807  cd homework
+  808  ls
+  809  git add hw-1-12-2017 
+  810  git commit -m "Problem1"
+  811  git status
+  812  git add *
+  813  git status
+  814  git commit -m "Problem2"
+  815  git push
+  816  git status
+  817  git add *
+  818  git commit -m "Problem3"
+  819  git push
+  820  git status
+  821  git add *
+  822  git status
+  823  git commit -m "Problem4"
+  824  git push
+  825  pwd
+  826  git status
+  827  git add *
+  828  git commit -m "Problem5"
+  829  git push
+  830  cd Desktop
+  831  cd eeb-177
+  832  cd class-assignments
+  833  ls
+  834  ls -a
+  835  touch README.txt
+  836  git status
+  837  git add*
+  838  git add *
+  839  git push
+  840  git status
+  841  git commit -m "README.txt"
+  842  git push
+  843  cd Desktop
+  844  cd eeb-177
+  845  cd class-assignments
+  846  mkdir tues-1-17-2017
+  847  gedit
+  848  cd
+  849  cd Desktop
+  850  cd eeb-177
+  851  ls
+  852  cd class-assignments/
+  853  ls
+  854  cd
+  855  cd Desktop
+  856  cd eeb-177
+  857  ls
+  858  cd class-assignments
+  859  git status
+  860  git add *
+  861  git status
+  862  git commit -m "class assignment1"
+  863  git push
+  864  cd ~
+  865  cd Desktop
+  866  cd eeb-177
+  867  cd CSB
+  868  pwd
+  869  cd unix
+  870  cd installation
+  871  ls
+  872  pwd
+  873  cd ~
+  874  cd Desktop/eeb-177/CSB/unix/installation
+  875  pwd
+  876  cd ~
+  877  cd Desktop
+  878  cd eeb-177
+  879  cd Desktop
+  880  ls
+  881  pwd
+  882  cd Desktop
+  883  touch badlynamedfile.txt
+  884  cp badlynamedfile.txt eeb-177
+  885  cd ~
+  886  pwd
+  887  cd Desktop
+  888  touch badly named file.txt
+  889  rm badly named file.txt
+  890  touch "badly named file.txt"
+  891  cp badly\ named\ file.txt ~
+  892  ls ~
+  893  ls
+  894  cd eeb-177
+  895  cd class-assignments/
+  896  ls -la
+  897  touch .config
+  898  ls
+  899  ls -a
+  900  rm .config
+  901  ls -a
+  902  cd ~
+  903  cd Desktop
+  904  ls
+  905  man cd
+  906  cd Desktop
+  907  cd ~
+  908  cd Desktop
+  909  man bash
+  910  cd ~
+  911  ls
+  912  rm badly\ named\ file.txt 
+  913  cd Desktop
+  914  mv badly\ named\ file.txt eeb-177/class-assignments
+  915  pwd
+  916  cd eeb-177/class-assignments/
+  917  ls
+  918  cd ~
+  919  ls
+  920  cd Desktop/eeb-177/class-assignments/
+  921  cp badly\ named\ file.txt ~
+  922  cd ~
+  923  ls ~
+  924  man bash
+  925  history
+  926  cd Desktop
+  927  cd eeb-177
+  928  cd class-assignments/
+  929  class-assignments >> classwork-Tues-1-17-2017.txt 
+  930  ls >> classwork-Tues-1-17-2017.txt
+  931  git status
+  932  git add *
+  933  git commit -m "sending ls of class-assignments to classwork"
+  934  git push
+  935  sudo apt-get update
+  936  sudo apt-get install gnome-screenshot
+  937  sudo reboot
+  938  cd ~/Desktop/eeb-177/lab-work
+  939  pwd
+  940  mkdir exercise-2
+  941  cd exercise-2
+  942  touch README.txt
+  943  git status
+  944  cd ..
+  945  git status
+  946  git add *
+  947  git status
+  948  git commit -m "adding README.txt"
+  949  git push
+  950  cd ~/Desktop/eeb-177/lab-work
+  951  pwd
+  952  git status
+  953  git add *
+  954  git commit -m "screenshots"
+  955  git status
+  956  git push
+  957  ls
+  958  cd exercise-2
+  959  gedit Darwin
+  960  cd ~/Desktop/eeb-177/lab-work/exercise-2
+  961  ls
+  962  gedit Darwin
+  963  ls
+  964  touch homework2.txt
+  965  cd Desktop
+  966  cd eeb-177
+  967  ls
+  968  cd class-assignments
+  969  ls
+  970  gedit classwork-Thurs-1-19-2017.txt
+  971  cd Desktop
+  972  cd eeb-177
+  973  ls
+  974  cd class-assignments
+  975  git status
+  976  git add *
+  977  git status
+  978  git commit -m
+  979  git status
+  980  git commit -m "classwork-Thurs-1-19"
+  981  git push
+  982  cd ..
+  983  ls
+  984  cd ~
+  985  cd Desktop
+  986  ls
+  987  cd eeb-177old
+  988  cd
+  989  ls
+  990  cd ..
+  991  ls
+  992  cd ..
+  993  cd ~
+  994  cd Desktop
+  995  cd eeb-177
+  996  cd CSB
+  997  ls
+  998  cd unix
+  999  ls
+ 1000  cd data
+ 1001  ls
+ 1002  cd Marra2014_data.fasta
+ 1003  find . -Marra2014_data wc -l
+ 1004  ls
+ 1005  cd Marra2014_data.fasta
+ 1006  wc -l Marra2014_data.fasta
+ 1007  touch toremove.txt /../sandbox
+ 1008  touch toremove.txt ../sandbox
+ 1009  cd Desktop/eeb-177/CSB/unix
+ 1010  ls
+ 1011  cd data
+ 1012  ls
+ 1013  wc -l Marra2014_data.fasta
+ 1014  touch ~/Desktop/eeb-177/CSB/unix/sandbox/toremove.txt
+ 1015  ls
+ 1016  cd sandbox
+ 1017  cd ..
+ 1018  cd sandbox
+ 1019  ls
+ 1020  history
+ 1021  history >> ~/Desktop/eeb-177/class-assignments/classwork-Thurs-1-19-2017.txt 
