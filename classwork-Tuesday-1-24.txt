@@ -1,3 +1,100 @@
 ../../../../eeb-177/class-assignments/classwork-Tues-1-17-2017.txt
 ../../../../eeb-177/class-assignments/classwork-Tuesday-1-24.txt
 ../../../../eeb-177/class-assignments/classwork-Thurs-1-19-2017.txt
+
+ 1462  cd Desktop/eeb-177/class-assignments/
+ 1463  gedit classwork-Tuesday-1-24.txt
+ 1464  cd ~
+ 1465  cd Desktop/eeb-177/CSB/unix
+ 1466  cd sandbox/
+ 1467  wget hhtp://tinyurl.com/cep-taxa -O cep-taxa.txt
+ 1468  wget http://tinyurl.com/cep-taxa -O cep-taxa.txt
+ 1469  less cep-taxa.txt 
+ 1470  grep Orchidaceae cep-taxa.txt 
+ 1471   Orchidaceae cep-taxa.txt 
+ 1472  grep falcon cep-taxa.txt 
+ 1473  grep Falcon cep-taxa.txt 
+ 1474  grep -i falcon cep-taxa.txt 
+ 1475  grep -i Macaw cep-taxa.txt 
+ 1476  grep -i ara cep-taxa.txt 
+ 1477  grep Ara cep-taxa.txt 
+ 1478  grep -i -w ara cep-taxa.txt 
+ 1479  grep -B 3 Cebus cep-taxa.txt 
+ 1480  grep -B 4 Cebus cep-taxa.txt 
+ 1481  grep -n iguana cep-taxa.txt 
+ 1482  grep -n -i -w iguana cep-taxa.txt 
+ 1483  grep -v -c -w Ara cep-taxa.txt 
+ 1484  grep -v -c -w Ara cep-taxa.txt >> non-macaws.txt
+ 1485  ls
+ 1486  less non-macaws.txt 
+ 1487  find .*
+ 1488  ls -la
+ 1489  find ../data/
+ 1490  man find
+ 1491  find ../data/ | wc -l
+ 1492  find ../data/ -name "n30.txt"
+ 1493  find /home/eeb177-student/Desktop/eeb-177/CSB/unix/ -iname "*about*"
+ 1494  find /home/eeb177-student/Desktop/eeb-177/class-assignments/ -iname "*classwork*"
+ 1495  find ../../../../ -iname "*classwork*"
+ 1496  find ../../../../ -iname "*classwork*" >> ../../../../eeb-177/class-assignments/ classwork-Tuesday-1-24.txt
+ 1497  find ../../../../ -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt 
+ 1498  cd ~ 
+ 1499  cd Desktop/eeb-177/class-assignments/
+ 1500  git status
+ 1501  git add classwork-Tuesday-1-24.txt 
+ 1502  git status
+ 1503  git commit -m "tues24classwork"
+ 1504  git push
+ 1505  ls -l
+ 1506  cd Desktop/eeb-177/CSB/unix/sandbox/
+ 1507  ls -l
+ 1508  touch permissions.txt
+ 1509  ls -l
+ 1510  chmod u=rwx permissions.txt 
+ 1511  ls -l
+ 1512  history 
+eeb177-student@eeb177-VirtualBox:~/Desktop/eeb-177/CSB/unix/sandbox$ history -n 1463
+eeb177-student@eeb177-VirtualBox:~/Desktop/eeb-177/CSB/unix/sandbox$ history 45
+ 1470  grep Orchidaceae cep-taxa.txt 
+ 1471   Orchidaceae cep-taxa.txt 
+ 1472  grep falcon cep-taxa.txt 
+ 1473  grep Falcon cep-taxa.txt 
+ 1474  grep -i falcon cep-taxa.txt 
+ 1475  grep -i Macaw cep-taxa.txt 
+ 1476  grep -i ara cep-taxa.txt 
+ 1477  grep Ara cep-taxa.txt 
+ 1478  grep -i -w ara cep-taxa.txt 
+ 1479  grep -B 3 Cebus cep-taxa.txt 
+ 1480  grep -B 4 Cebus cep-taxa.txt 
+ 1481  grep -n iguana cep-taxa.txt 
+ 1482  grep -n -i -w iguana cep-taxa.txt 
+ 1483  grep -v -c -w Ara cep-taxa.txt 
+ 1484  grep -v -c -w Ara cep-taxa.txt >> non-macaws.txt
+ 1485  ls
+ 1486  less non-macaws.txt 
+ 1487  find .*
+ 1488  ls -la
+ 1489  find ../data/
+ 1490  man find
+ 1491  find ../data/ | wc -l
+ 1492  find ../data/ -name "n30.txt"
+ 1493  find /home/eeb177-student/Desktop/eeb-177/CSB/unix/ -iname "*about*"
+ 1494  find /home/eeb177-student/Desktop/eeb-177/class-assignments/ -iname "*classwork*"
+ 1495  find ../../../../ -iname "*classwork*"
+ 1496  find ../../../../ -iname "*classwork*" >> ../../../../eeb-177/class-assignments/ classwork-Tuesday-1-24.txt
+ 1497  find ../../../../ -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt 
+ 1498  cd ~ 
+ 1499  cd Desktop/eeb-177/class-assignments/
+ 1500  git status
+ 1501  git add classwork-Tuesday-1-24.txt 
+ 1502  git status
+ 1503  git commit -m "tues24classwork"
+ 1504  git push
+ 1505  ls -l
+ 1506  cd Desktop/eeb-177/CSB/unix/sandbox/
+ 1507  ls -l
+ 1508  touch permissions.txt
+ 1509  ls -l
+ 1510  chmod u=rwx permissions.txt 
+ 1511  ls -l
+
