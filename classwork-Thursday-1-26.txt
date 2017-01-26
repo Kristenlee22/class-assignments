@@ -1,0 +1,100 @@
+1533  cd Desktop/eeb-177/class-assignments/
+ 1534  ls
+ 1535  gedit classwork-Thursday-1-26.txt
+ 1536  cd Desktop/eeb-177/lab-work/exercise-3
+ 1537  mv week_3_assignment.txt Exercise-3.ipynb
+ 1538  cd ..
+ 1539  ls 
+ 1540  git status
+ 1541  git add *
+ 1542  git commit -m "exercise3"
+ 1543  git push
+ 1544  ls
+ 1545  cd exercise-3
+ 1546  jupyter notebook
+ 1547  cd Desktop/eeb-177/class-assignments/
+ 1548  git status
+ 1549  git add classwork-Thursday-1-26.txt 
+ 1550  git commit -m "Thurs26" 
+ 1551  git push
+ 1552  ls -l
+ 1553  touch permissions.txt
+ 1554  ls -a
+ 1555  ls -l
+ 1556  chmod u=rwx permissions.txt 
+ 1557  ls -l
+ 1558  chmod u-x permissions.txt 
+ 1559  ls -l
+ 1560  ls/usr/bin
+ 1561  usr/bin
+ 1562  $PATH
+ 1563  cd
+ 1564  pwd
+ 1565  mkdir scripts
+ 1566  ls
+ 1567  cd scripts
+ 1568  ls
+ 1569  mv ~/Desktop/eeb-177/class-assignments/dir.sh .
+ 1570  ls
+ 1571  cd
+ 1572  ls -
+ 1573  ls -a
+ 1574  gedit .bash_profile
+ 1575  ls -a
+ 1576  $PATH
+ 1577  ls -a
+ 1578  $PATH
+ 1579  cd scripts/
+ 1580  ls -l
+ 1581  chmod u+x dir.sh 
+ 1582  ls -l
+ 1583  cd
+ 1584  cd Desktop
+ 1585  ls
+ 1586  cd
+ 1587  cd scripts/
+ 1588  ls
+ 1589  gedit .profile
+ 1590  cd
+ 1591  gedit .profile
+ 1592  cd scripts
+ 1593  ls
+ 1594  sudo reboot
+ 1595  $PATH
+ 1596  dir.sh
+ 1597  cd Desktop/
+ 1598  dir.sh
+ 1599  ls
+ 1600  dir.sh
+ 1601  cd 
+ 1602  cd scripts/
+ 1603  gedit dir.sh 
+ 1604  cd Desktop/
+ 1605  dir.sh
+ 1606  cd 
+ 1607  cd scripts/
+ 1608  gedit dir.sh 
+ 1609  cd Desktop/
+ 1610  dir.sh
+ 1611  cd
+ 1612  cd scripts/
+ 1613  gedit dir.sh 
+ 1614  cd Desktop/
+ 1615  dir.sh
+ 1616  cd
+ 1617  cd scripts/
+ 1618  gedit dir.sh 
+ 1619  gedit in_class_script.sh
+ 1620  ls -l
+ 1621  chmod u+x in_class_script.sh 
+ 1622  ls -l
+ 1623  cd
+ 1624  cd Desktop/eeb-177/lab-work/
+ 1625  ls
+ 1626  git status
+ 1627  in_class_script.sh 
+ 1628  cd
+ 1629  cd Desktop/eeb-177/class-assignments/
+ 1630  ipython
+ 1631  history
+
