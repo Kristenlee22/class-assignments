@@ -1,0 +1,53 @@
+---
+title: "Tuesday-3-7"
+author: "Kriste Lee"
+date: "March 7, 2017"
+output: md_document
+---
+
+```{r}
+
+library(paleobioDB)
+library(paleotree)
+ 
+```
+```{r}
+
+data(graptPBDB)
+head(graptOccPBDB)
+
+OccSpecies<-taxonSortPBDBocc(graptOccPBDB, rank="species")
+#plot species occurances
+plotOccData(OccSpecies,groupLabel = "Species")
+
+
+
+
+```
+
+```{r}
+# convert occurence data to timelist formay
+graptTimeSpecies<-occData2timeList(occList = OccSpecies)
+
+taxicDivDisc(graptTimeSpecies)
+
+#can do this for graptTimeGenus or graptTimeFamily
+
+```
+
+
+```{r}
+graptTimeSpecies<-occData2timeList(occList=OccSpecies)
+graptTimeGenus<-occData2timeList(occlist=occGenera)
+graptTimeFamily
+
+```
+
+pdf(file="dtt.pdf")
+taxicDivDisc(graptTimeSpecies)
+dev(off)
+
+look up ggsave
+
+
+canids<-pbdb_occurences(limit="all", vocab = "pbdb", base_name ="canidae", show.c)
